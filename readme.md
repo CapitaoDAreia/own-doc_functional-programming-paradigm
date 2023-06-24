@@ -1,21 +1,26 @@
 # Exploring Functional Programming Paradigm
-- Course and article based own-doc about this awesome paradigm. 
+- Course and article based own-doc about this awesome paradigm. Feel free to suggest and explore!
 
 </hr>
 
 # Topics
-<ul>
+<ol>
     <li>
         <a href="https://github.com/CapitaoDAreia/exploring-functional-programming-paradigm/blob/main/section3-functional_programming_principles/1-pure_functions.js" target="_blank">
             Pure Functions
         </a>
     </li>
         <li>
-        <a href="https://github.com/CapitaoDAreia/exploring-functional-programming-paradigm/blob/main/section3-functional_programming_principles/2-higher-order-function" target="_blank">
+        <a href="https://github.com/CapitaoDAreia/exploring-functional-programming-paradigm/blob/main/section3-functional_programming_principles/2-higher-order-function.js" target="_blank">
             Higher Order Functions
         </a>
     </li>
-</ul>
+    <li>
+        <a href="https://github.com/CapitaoDAreia/exploring-functional-programming-paradigm/blob/main/section3-functional_programming_principles/3-first-class-functions.js" target="_blank">
+            First Class Functions
+        </a>
+    </li>
+</ol>
 
 # References
 <ul>
