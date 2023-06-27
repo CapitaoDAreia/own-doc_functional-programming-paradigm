@@ -6,22 +6,17 @@
 # Topics
 <ol>
     <li>
-        <a href="https://github.com/CapitaoDAreia/own-doc_functional-programming-paradigm/tree/main/section2-JSfunctions" target="_blank">
-            Basics About JS Functions
-        </a>
-    </li>
-    <li>
-        <a href="https://github.com/CapitaoDAreia/exploring-functional-programming-paradigm/blob/main/section3-functional_programming_principles/1-pure_functions.js" target="_blank">
+        <a href="https://github.com/CapitaoDAreia/exploring-functional-programming-paradigm/blob/main/functional_programming_principles/1-pure_functions.js" target="_blank">
             Pure Functions
         </a>
     </li>
         <li>
-        <a href="https://github.com/CapitaoDAreia/exploring-functional-programming-paradigm/blob/main/section3-functional_programming_principles/2-higher-order-function.js" target="_blank">
+        <a href="https://github.com/CapitaoDAreia/exploring-functional-programming-paradigm/blob/main/functional_programming_principles/2-higher-order-function.js" target="_blank">
             Higher Order Functions
         </a>
     </li>
     <li>
-        <a href="https://github.com/CapitaoDAreia/exploring-functional-programming-paradigm/blob/main/section3-functional_programming_principles/3-first-class-functions.js" target="_blank">
+        <a href="https://github.com/CapitaoDAreia/exploring-functional-programming-paradigm/blob/main/functional_programming_principles/3-first-class-functions.js" target="_blank">
             First Class Functions
         </a>
     </li>
