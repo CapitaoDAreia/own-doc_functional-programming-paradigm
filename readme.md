@@ -25,10 +25,16 @@
             Immutability
         </a>
     </li>
-        </li>
+    </li>
         <li>
         <a href="https://github.com/CapitaoDAreia/exploring-functional-programming-paradigm/blob/main/functional_programming_principles/5-recursion.js" target="_blank">
             Recursion
+        </a>
+    </li>
+    </li>
+        <li>
+        <a href="https://github.com/CapitaoDAreia/exploring-functional-programming-paradigm/blob/main/functional_programming_principles/6-closure.js" target="_blank">
+            Closure
         </a>
     </li>
 </ol>
@@ -69,6 +75,12 @@
             <a href="https://medium.com/@andy.nguyen.1993/functional-programming-recursion-and-tail-call-optimization-tco-9b4b1376fe22#:~:text=Recursion%20is%20a%20widely%20used,calls%20itself%20directly%20or%20indirectly">
                 Functional Programming: recursion and tail call optimization (TCO)
             </a> - Andy Nguyen
+        </li>
+        </li>
+            <li>
+            <a href="https://medium.com/beginners-guide-to-mobile-web-development/closures-in-functional-programming-and-javascript-3ed730e08fc2">
+                Closures — A moment of truth (Functional Programming and JavaScript)
+            </a> - Aryak Sengupta
         </li>
     </ul>
 </ul>
