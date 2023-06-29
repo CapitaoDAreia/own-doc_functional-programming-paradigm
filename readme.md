@@ -37,6 +37,12 @@
             Closure
         </a>
     </li>
+    </li>
+        <li>
+        <a href="https://github.com/CapitaoDAreia/exploring-functional-programming-paradigm/blob/main/functional_programming_principles/7-currying.js" target="_blank">
+            Currying
+        </a>
+    </li>
 </ol>
 
 # References
@@ -81,6 +87,18 @@
             <a href="https://medium.com/beginners-guide-to-mobile-web-development/closures-in-functional-programming-and-javascript-3ed730e08fc2">
                 Closures — A moment of truth (Functional Programming and JavaScript)
             </a> - Aryak Sengupta
+        </li>
+        </li>
+            <li>
+            <a href="https://towardsdatascience.com/what-is-currying-in-programming-56fd57103431">
+                What Is Currying in Programming?
+            </a> - Bilal Himite
+        </li>
+        </li>
+            <li>
+            <a href="https://blog.bitsrc.io/functional-programming-part-3-the-powers-of-currying-213eb69b234b">
+                Functional Programming (Part 3): The Power of Currying
+            </a> - Ahmad M. Hawwash
         </li>
     </ul>
 </ul>
