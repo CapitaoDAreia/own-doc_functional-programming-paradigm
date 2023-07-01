@@ -49,6 +49,12 @@
             Lazy Evaluation
         </a>
     </li>
+    </li>
+        <li>
+        <a href="https://github.com/CapitaoDAreia/exploring-functional-programming-paradigm/blob/main/functional_programming_principles/9-functors.js" target="_blank">
+            Functors
+        </a>
+    </li>
 </ol>
 
 # References
@@ -104,6 +110,12 @@
             <li>
             <a href="https://blog.bitsrc.io/functional-programming-part-3-the-powers-of-currying-213eb69b234b">
                 Functional Programming (Part 3): The Power of Currying
+            </a> - Ahmad M. Hawwash
+        </li>
+        </li>
+            <li>
+            <a href="https://blog.bitsrc.io/functional-programming-oh-functors-5e670d8eeb8d">
+                Functional Programming: Part 5 - Functors
             </a> - Ahmad M. Hawwash
         </li>
     </ul>
