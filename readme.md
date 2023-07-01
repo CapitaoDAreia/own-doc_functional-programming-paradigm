@@ -43,6 +43,12 @@
             Currying
         </a>
     </li>
+    </li>
+        <li>
+        <a href="https://github.com/CapitaoDAreia/exploring-functional-programming-paradigm/blob/main/functional_programming_principles/8-lazy_evaluation.js" target="_blank">
+            Lazy Evaluation
+        </a>
+    </li>
 </ol>
 
 # References
